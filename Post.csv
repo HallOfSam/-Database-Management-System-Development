@@ -1,0 +1,37 @@
+postTitle,postAuthorID,tagID,text,post_date,cNum,year,semester,postAuthorFName,postAuthorLName
+A1 Tips,8uv1aK9btU,11,We've had some great questions during office hours. Here are some FAQ for anyone that might have the same questions. If you resubmit an assignment don't worry about the added number. If you are worried that your code will not compile on our end; test it out by downloading your submitted code on Canvas and trying to compile it again.,2021/9/14 11:45,CS171,2021,Fall,Newton,Hart
+Ace value,AyZm6kgtLQ,12,When exactly do we make the ace a 1 v.s. an 11? Is the rule always to make it an 11 unless it would bust the hand? And what if the first two cards are aces do we make one 1 and the other 11?,2021/10/1 19:01,CS171,2021,Fall,Silvia,Marston
+Assignment 1 Graded,A1Kcf8Z1u3,0,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,2021/10/1 7:30,CS377,2021,Fall,Joyce,Ho
+Assignment 1 Graded,A1Kcf8Z1u3,1,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,2021/10/1 7:30,CS377,2021,Fall,Joyce,Ho
+Assignment 1 Graded,ize3lkeNiR,2,How do we setup the Yelp Server?,2021/10/1 7:30,CS377,2021,Fall,Elaine,Chong
+Assignment 1 Graded,A1Kcf8Z1u3,0,The grades for assignment 2 are on Canvas. Please see the assignment2_rubric.xlsx file for more details.,2021/10/15 7:25,CS377,2021,Fall,Joyce,Ho
+Assignment 1 Graded,A1Kcf8Z1u3,2,The grades for assignment 2 are on Canvas. Please see the assignment2_rubric.xlsx file for more details.,2021/10/15 7:25,CS377,2021,Fall,Joyce,Ho
+Assignment 4 Graded,A1Kcf8Z1u3,0,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,2021/10/1 7:30,CS377,2021,Fall,Joyce,Ho
+Assignment 4 Graded,A1Kcf8Z1u3,4,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.,2021/10/1 7:30,CS377,2021,Fall,Joyce,Ho
+BST item deletion,bCSKEQsp82,25,How do you delete if it's not the min or max value?,2020/11/28 3:35,CS171,2020,Fall,Lev,Bandoni
+Conceptual question - relational state vs relational schema,Xo3aGKAsfE,5,Is there a difference between the two?,2021/9/5 10:15,CS377,2021,Fall,Daniele,Heimans
+Database normalization,I8k5HwpLlU,10,What is the difference between 2NF and 3NF?,2021/4/26 1:32,CS377,2021,Spring,Darrin,Hu
+Exceptions,AyZm6kgtLQ,14,When we throw an exception does it need to stop the program immediately?,2021/10/31 16:35,CS171,2021,Fall,Silvia,Marston
+Filename changed after resubmission,loWO7ep40W,13,The name of my file on canvas changed to KnightTour-1 after I resubmitted it and I just wanted to double check that this will not affect the testing of my code.?,2021/10/16 8:37,CS171,2021,Fall,Ama,Vespa
+Final content,EIBGkZJ8LU,9,What will be covered on the final?,2021/5/1 5:40,CS377,2021,Spring,Hebel,Linville
+GROUP BY query,AnRRwDoMFm,10,Does it matter where GROUP BY is located?,2021/3/29 4:47,CS377,2021,Spring,Paul,Hogarth
+HW3,bSZa17FK2l,3,Are we allowed to create a tempory table to hold intermediate results?,2021/10/15 7:48,CS377,2021,Fall,John,Kim
+HW3 Q2,fk7USWbA60,3,Can we assume each city has a distance name?,2021/10/9 8:30,CS377,2021,Fall,Cynthia,Chen
+Java GUI,tmt3aPs20s,19,Does it matter if my GUI is ugly?,2020/4/1 0:30,CS377,2020,Spring,Nikhil,Bapat
+Java IDE,8uv1aK9btU,21,Does anybody have any suggestions about a good IDE to use?,2020/9/15 6:53,CS171,2020,Fall,Newton,Hart
+JDK version,PiQvBSPut9,19,Which JDK version should we be using?,2020/4/2 14:24,CS377,2020,Spring,Rebecca,Luo
+Midterm content,I8k5HwpLlU,9,What will be covered on the midterm?,2021/4/9 19:13,CS377,2021,Spring,Darrin,Hu
+Music Industry database Trouble,WJrWAidLZ5,19,I am trying to create a local copy of the database but it takes an absurdly long time. What should I do?,2020/2/28 5:50,CS377,2020,Spring,Jessica,Ji
+Possible legal moves,qBhsb9AT1D,13,I'm a bit stumped on how to explore all the possible next moves for the knight whilst also pushing the new boards to the stack. How do I know that a move is legal?,2021/10/14 11:30,CS171,2021,Fall,Noelle,Herman
+Question 1 Clarification,bSZa17FK2l,1,Are we to find countries who have won no medals and report all the last names associated with them or find the last names of all athletes who have no medals?,2021/9/5 16:30,CS377,2021,Fall,John,Kim
+RA operation,qjAClhRo8T,10,What does the bowtie symbol mean?,2021/2/4 3:45,CS377,2021,Spring,August,Papp
+Regrade request,l8Ck5AEii7,9,How do we submit a regrade request for the midterm?,2021/4/25 6:10,CS377,2021,Spring,Paulina,Tivoli
+Runtime,WVztzxaqG1,22,My runtimes are larger than what is in the sample runtimes.txt file. Will I lose points?,2020/10/13 22:39,CS171,2020,Fall,Dorris,Aarle
+Sample final exams,PiQvBSPut9,9,Are there solutions for the sample final exams?,2020/5/1 2:08,CS377,2020,Spring,Rebecca,Luo
+Sample midterms,tmt3aPs20s,9,Are there sample midterm exams?,2020/4/10 13:02,CS377,2020,Spring,Nikhil,Bapat
+Shuffle Deck,wUSNkrt2i7,12,Do we have to shuffle the deck at any point?,2021/10/1 14:35,CS171,2021,Fall,Giuliana,Morris
+Shuffling for Quicksort,pAA8hhbaAf,24,What is the best way to shuffle an array at the start of quicksort?,2020/11/12 8:59,CS171,2020,Fall,Cortney,Peter
+SQL server,cp5asEx6KR,10,How do we install PostGresSQL on our local machine?,2021/3/21 4:28,CS377,2021,Spring,Tyrone,Jacobs
+Trouble with delete,lKOmgoDP5M,23,My delete in the double-ended link list isn't working. It deletes the entire list!,2020/10/28 5:19,CS171,2020,Fall,Devon,Ruf
+Week 10 Prep,nlNo3Ifie2,7,Canvas is not allowing me to submit the weekly prep quiz. What should I do?,2021/4/10 12:31,CS377,2021,Spring,Huang,Moon
+Week 11 Prep,fe20lUruvB,7,Does anybody have a link to the Google Cloud Platform?,2021/4/17 12:31,CS377,2021,Spring,Ellie,Arrigucci
